@@ -1,7 +1,7 @@
 # Hola. Hi. Saluton.
 
-- My name is Stephanie. I'm an electronics engineer.
-- I’m currently learning JavaScript and Python. I already know a bit of C.
+- My name is Stephanie.
+- I’m currently learning JavaScript and Python. 
 - I want to become a back-end developer.
 - [My gists](https://gist.github.com/spenalozacortes). Feel free to provide feedback!
 
