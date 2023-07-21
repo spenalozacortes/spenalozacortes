@@ -1,7 +1,7 @@
 # Hola. Hi. Saluton.
 
 - My name is Stephanie. :smiley:
-- I know **JavaScript** (Node.js, Express.js), **SQL** (PostgreSQL, SQLite) and **MongoDB**. I can write simple **Bash** scripts.
+- I know **JavaScript** (Node.js, Express.js), **SQL** (PostgreSQL, SQLite) and **NoSQL** (MongoDB). I can write simple **Bash** scripts.
 - I'm familiar with Python, Java, PHP, and C in that order. I can write simple HTML and CSS.
 - I’m currently learning more about **Java**: I/O, serialization, generics, collections, nested classes, threading, JUnit testing.
 
