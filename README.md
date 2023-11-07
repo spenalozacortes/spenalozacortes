@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephanie</h1>
 <h3 align="center">QA Automation Engineer from Mexico</h3>
 
-- 🌱 I’m currently learning **Selenium WebDriver**
+- 🌱 I’m currently learning **Selenium WebDriver** and **REST Assured**
 
 - 💬 Ask me about **Java, Test Automation**
 
