@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Stephanie</h1>
 
-- 🌱 I’m currently learning **Selenium WebDriver** and **REST Assured**
+- 🌱 I’m currently learning **REST Assured**
 
 - 💬 Ask me about **Java, Test Automation**
 
-- ⚡ Fun fact **I'm a self-taught programmer!**
+- ⚡ Fun fact **I speak Esperanto!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
