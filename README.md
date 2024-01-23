@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephanie</h1>
 
-- 🌱 I’m currently learning **REST Assured**
-
 - 💬 Ask me about **Java, Test Automation**
 
 - ⚡ Fun fact **I speak Esperanto!**
