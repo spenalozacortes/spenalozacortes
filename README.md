@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephanie</h1>
+<h3 align="center">Electronics engineer turned test developer</h3>
 
-- 💬 Ask me about **Java, Test Automation**
+- 💬 Ask me about **Java, Selenium WebDriver, REST Assured**
 
 - ⚡ Fun fact **I speak Esperanto!**
 
