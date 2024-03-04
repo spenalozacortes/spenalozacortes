@@ -3,8 +3,6 @@
 
 - 💬 Ask me about **Java, Selenium WebDriver, REST Assured**
 
-- 📝 I regularly write articles on [https://spenalozacortes.github.io/](https://spenalozacortes.github.io/)
-
 - ⚡ Fun fact **I speak Esperanto!**
 
 <h3 align="left">Connect with me:</h3>
