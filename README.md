@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephanie</h1>
 <h3 align="center">Electronics engineer turned test developer</h3>
 
-- 🌱 I’m currently learning **Appium**
+- 🌱 I’m currently learning **Cypress**
 
 - 💬 Ask me about **Java, Selenium WebDriver, REST Assured**
 
